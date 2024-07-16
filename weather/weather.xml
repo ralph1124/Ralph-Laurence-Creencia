@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<weather>
+  <location>
+    <city>Nasugbu</city>
+    <country>Philippines</country>
+  </location>
+  <forecast>
+    <date>2024-07-16</date>
+    <temperature>32°C</temperature>
+    <description>Mainit na may ilang ulap</description>
+    <humidity>70%</humidity>
+    <wind>
+      <speed>15 km/h</speed>
+      <direction>Timog-Silangan</direction>
+    </wind>
+  </forecast>
+</weather>

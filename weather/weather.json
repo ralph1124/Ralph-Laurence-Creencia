@@ -1,0 +1,19 @@
+{
+    "weather": {
+      "location": {
+        "city": "Nasugbu",
+        "country": "Philippines"
+      },
+      "forecast": {
+        "date": "2024-07-16",
+        "temperature": "32°C",
+        "description": "Mainit na may ilang ulap",
+        "humidity": "70%",
+        "wind": {
+          "speed": "15 km/h",
+          "direction": "Timog-Silangan"
+        }
+      }
+    }
+  }
+  
